@@ -84,4 +84,6 @@ This thesis contributes to the field of space classification by demonstrating th
 
 ---
 
-Feel free to explore, modify, and utilize this repository to further the research and applications of deep learning in space classification. 🌍🚀
+## Live Demo
+
+Try out the application here: [Segmentation Model App](https://segmentationmodel-xtqstnfsrsq7rs6exvqf82.streamlit.app/) 🌍🚀

@@ -30,4 +30,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 8501
 
 # Commande pour exécuter l'application Streamlit lorsque le conteneur démarre
-CMD ["streamlit", "run", "new.py"]
+CMD ["streamlit", "run", "Apps_im_Lokal.py"]
